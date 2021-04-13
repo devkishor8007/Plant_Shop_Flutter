@@ -1,4 +1,4 @@
-# plant_shop
+# plant_shop_flutter
 
 A new Flutter Plant_Shop application. Designed by Angela Taylor, Code with Flutter by Kishor Kc.
 
